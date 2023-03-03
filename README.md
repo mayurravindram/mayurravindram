@@ -1,8 +1,9 @@
 <h1 align="">Hi 👋, I'm Mayur</h1>
 <h3 align="">An enthusiast Java developer</h3>
-
-<p align="right"> 
-  <img src="https://user-images.githubusercontent.com/117730324/222672845-d66aba59-25a6-4ba3-96c5-a3dfbc7da284.jpg" height="300px"/>
+<img src="https://user-images.githubusercontent.com/117730324/222672845-d66aba59-25a6-4ba3-96c5-a3dfbc7da284.jpg" height="300px"/>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mayurravindram&label=Profile%20views&color=0e75b6&style=flat" alt="mayurravindram" />
+  
 </p> 
 
 
